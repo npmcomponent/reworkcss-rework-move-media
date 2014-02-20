@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [reworkcss/rework-move-media](http://github.com/reworkcss/rework-move-media). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/reworkcss-rework-move-media`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 ## Move Media [![Build Status](https://travis-ci.org/reworkcss/rework-move-media.png)](https://travis-ci.org/reworkcss/rework-move-media)
 
 Aggregate media queries and move it to the end of the file.
